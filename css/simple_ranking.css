@@ -1,0 +1,31 @@
+.main {
+    margin: 0 auto; 
+    max-width: 600px;
+}
+
+#table {
+    border-collapse: collapse;
+    border: 2px solid #000000;
+}
+
+#table_caption {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(17, 16, 16);
+    height: 40px;
+}
+
+th {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(18, 17, 17);
+    /* background-color: rebeccapurple; */
+}
+
+td {
+    font-size: medium;
+    text-align: center;
+    color: rgb(25, 18, 18);
+}
